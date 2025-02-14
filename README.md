@@ -24,10 +24,10 @@ Olá! Eu sou **Daniel Rosa**, estudante do terceiro ano do Ensino Médio no SENA
 
 ### 🛠️ Projetos
 
-- **[T-Rex Game](https://github.com/Danielomes/DaToldo)**  
+- **[T-Rex Game](https://github.com/DanielRosa07/DaToldo)**  
   Um projeto simples que recria o famoso jogo do T-Rex do Google Chrome, desenvolvido para aprimorar minhas habilidades em JavaScript.
 
-- **[Jogo Web - JJK Alpha 0.1](https://github.com/Danielomes/game-web-jjk-alpha-0.1)**  
+- **[Jogo Web - JJK Alpha 0.1](https://github.com/DanielRosa07/game-web-jjk-alpha-0.1)**  
   Um jogo web em desenvolvimento, onde estou experimentando novas mecânicas e técnicas de programação.
 
 - **[PineApple Company](https://github.com/leonardosantana214/PineApple-Company)**  
@@ -36,11 +36,11 @@ Olá! Eu sou **Daniel Rosa**, estudante do terceiro ano do Ensino Médio no SENA
 ### 📊 GitHub Stats
 
 <div>
-    <a href="https://github.com/Danielomes">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielomes&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+    <a href="https://github.com/DanielRosa07">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRosa07&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
     </a>
-    <a href="https://github.com/Danielomes">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    <a href="https://github.com/DanielRosa07">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRosa07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     </a>
 </div>
 
